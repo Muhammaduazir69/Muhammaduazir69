@@ -12,25 +12,25 @@ Knowledge of the following areas – array signal processing, RF impairments rel
 Reinforcement Learning algorithm implementation with NS3-AI & OmNet++(DQN, DDQN, TD3, VDN, QMIX, Mlpolicy).
 GitHub Repositories Modifications (EPYMARL, MARL, PantheonRL)
 
-Mininet Wifi with openflow RYU controller
-10 sensor nodes in WSN & applied sinkhole attack in OmNet ++ & then detecting it using hybrid IDS technique.
-5G Network Simulation
-Particle swarm optimization(PSO) & genetic algorithm for energy consumed enhancement in python
-Drones Simulation with edge Devices
-5G Lena V2V simulation NS3
-6G + AI Research Simulation
-SDN network Dynamic openflow controller placement.
-RPL Routing Protocol with Objective Functions(OF0, MRHOF) in cooja
-Precision Time Protocol(PTP) according to IEEE 1588 in OmNet++ using libPTP.
-Cloud Computing Networks (fognet simulation in OmNet++) Master & Slave Node comparison.
-Mobile Host & Malicious Host communication in OmNet++
-VANET simulation
-Authentication simulation in OMNET++
-IoT loRaWan
-Power consumption using machine learning techniques on Iot Devices.
-Enhancement in existing Simulation networks.
-Image compression Algorithm enhancement using deep learning by utilizing U-Net model, auto-encoders, wavelets feature extraction in python.
-LLM hallucinations R&D
+• Simu5g based VANET scenarios with other study enhancement comparisons.
+• Mininet Wifi with openflow RYU controller
+• 10 sensor nodes in WSN & applied sinkhole attack in OmNet ++ & then detecting it using hybrid IDS technique.
+• Attacks(ARP spoofing, DoS/DDoS, SYN flood) on vehicular networks simu5g & detection.
+• Particle swarm optimization(PSO) & genetic algorithm for energy consumed enhancement in python.
+• Drones(UAVs) Simulation with network slicing dynamic resources allocation.
+• 5G-Lena(NR) V2V simulation NS3 with obstacles detection.
+• 6G + AI Research Simulation
+• SDN network Dynamic openflow controller placement.
+• RPL Routing Protocol with Objective Functions(OF0, MRHOF) in cooja.
+• Precision Time Protocol(PTP) according to IEEE 1588 in OmNet++ using libPTP.
+• Cloud Computing Networks (fognet simulation in OmNet++) Master & Slave Node comparison.
+• Mobile Host & Malicious Host communication in OmNet++.
+• VANET simulation NS3-AI SUMO OSM
+• Authentication simulation in OMNET++ IoT loRaWan
+• Power consumption using machine learning techniques on Iot Devices.
+• Enhancement in existing Simulation networks.
+• Image compression Algorithm enhancement using deep learning by utilizing U-Net model, auto-encoders, wavelets feature extraction in python.
+* LLM hallucinations R&D
 
 Helped PhD Students worldwide in Wireless network & ML, RL, DL Research implementations in OmNet++, NS3, Mininet-WiFi, Cooja & Matlab & Python.
 
