@@ -49,6 +49,3 @@ If you're working on 𝟲𝗚 𝗡𝗼𝗻-𝗧𝗲𝗿𝗿𝗲𝘀𝘁𝗿𝗶�
  
 ▸ 𝗢𝗥𝗖𝗜𝗗: 0009-0002-4104-2680
 ▸ 𝗚𝗶𝘁𝗛𝘂𝗯: Muhammaduazir69
-▸ 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: IEEE Access, MDPI Sensors, Elsevier Vehicular Communications
-▸ 𝗚𝗹𝗼𝗯𝗮𝗹 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘀: Northeastern University, University of Luxembourg (SIGCOM), and PhD students across 15+ countries
- 
