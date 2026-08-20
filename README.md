@@ -1,5 +1,5 @@
 
-Independent researcher specializing in next-generation wireless communications, with a focus on
+Top 0.1% Independent academic researcher specializing in next-generation wireless communications, with a focus on
 6G Non-Terrestrial Networks (NTN), O-RAN, 𝗩𝟮𝗫/𝗩𝗔𝗡𝗘𝗧, Named Data Network(NDN), 𝗜𝗼𝗧/𝗜𝗼𝗠𝗧 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗼𝗿 𝗗𝗥𝗟/𝗠𝗔𝗥𝗟 𝗳𝗼𝗿 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, intelligent network control, and advanced
 wireless simulation with hands-on ns-3/OMNeT++ development and open-source research
 contributions. His work focuses on developing simulation frameworks and measurement-driven
