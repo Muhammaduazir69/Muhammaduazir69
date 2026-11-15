@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://youtu.be/JNStiBst68I"><img src="https://img.youtube.com/vi/JNStiBst68I/maxresdefault.jpg" alt="NTN Control Center: end-to-end simulation of non-terrestrial networks in ns-3 (video)" width="640"/></a><br/>
+  <a href="https://youtu.be/JNStiBst68I"><img src="https://img.shields.io/badge/YouTube-Watch%20the%205--minute%20demo-red?logo=youtube" alt="Watch on YouTube"/></a><br/>
+  <sub>NTN Control Center: end-to-end 6G satellite network simulation in ns-3 (5-minute video)</sub>
+</p>
+
 
 Top 0.1% Independent academic researcher specializing in next-generation wireless communications, with a focus on
 6G Non-Terrestrial Networks (NTN), O-RAN, 𝗩𝟮𝗫/𝗩𝗔𝗡𝗘𝗧, Named Data Network(NDN), 𝗜𝗼𝗧/𝗜𝗼𝗠𝗧 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗼𝗿 𝗗𝗥𝗟/𝗠𝗔𝗥𝗟 𝗳𝗼𝗿 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, intelligent network control, and advanced
